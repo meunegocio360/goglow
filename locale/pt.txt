@@ -3,16 +3,16 @@
 ## Action
 
 ### URL
+LinkBehaviour_8257FAFB_9FC6_CD28_41A3_BE87D72DDD5D.source = http://www.loremipsum.com
 LinkBehaviour_25538A82_3521_BD80_41C4_D3A29498F842.source = http://www.loremipsum.com
-LinkBehaviour_0AFBF562_104E_25FB_41A3_55D6AC0A7BDC.source = http://www.loremipsum.com
+LinkBehaviour_83AABAD9_9FC6_CD68_41E0_4204C6447081.source = https://linklist.bio/goglow
 LinkBehaviour_8DDE666C_9B5E_C007_41A7_86E5D1914745.source = https://linklist.bio/goglow
-LinkBehaviour_0AFBE569_104E_25C9_41A0_96A87FB265B8.source = https://linklist.bio/toshirosantacecilia
-LinkBehaviour_0AF04549_104E_25C9_41B0_95848887C778.source = https://linklist.bio/toshirosantacecilia
 WebFrame_245FE213_17C4_1F0B_41A4_D9A473C556C8_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14376.151861634273!2d-73.99351941263586!3d40.75732561349075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2sTimes+Square!5e0!3m2!1ses!2ses!4v1542287427714" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
 WebFrame_245FE213_17C4_1F0B_41A4_D9A473C556C8.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14376.151861634273!2d-73.99351941263586!3d40.75732561349075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2sTimes+Square!5e0!3m2!1ses!2ses!4v1542287427714" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
 LinkBehaviour_076A0D65_104B_E5C4_4174_1D4AAA7C5BD4.source = https://www.instagram.com/goglowbronze/
+LinkBehaviour_82573AFD_9FC6_CD28_41BB_B9977AA707A0.source = https://www.instagram.com/goglowbronze/
+LinkBehaviour_82549B02_9FC6_CCD8_41C4_E287FE65279D.source = https://www.instagram.com/meunegocioweb360/
 LinkBehaviour_08C6ED54_104E_25DE_41A2_2F16B0A99D40.source = https://www.instagram.com/meunegocioweb360/
-LinkBehaviour_0AFB4570_104E_25D7_4190_754CEAF37F56.source = https://www.instagram.com/meunegocioweb360/
 
 ## Media
 
@@ -40,18 +40,15 @@ panorama_9E8E300D_9440_9F9A_41E1_5B9D5EBEFD97.label = Recepção - Paraíso
 ## Skin
 
 ### Button
+Button_8979BE6D_9B42_4000_41D2_AAFE4A733C23_mobile.label = ALBUM 360° 
 Button_8979BE6D_9B42_4000_41D2_AAFE4A733C23.label = ALBUM 360° 
-Button_20F76D6B_37E3_9480_41AC_0E78CB4D781F_mobile.label = ALBUM FOTOS 360°
 Button_1830D20E_17B1_6AC3_4198_688BED36E073_mobile.label = CONTACT
 Button_1830D20E_17B1_6AC3_4198_688BED36E073.label = CONTACT
-Button_20E0A618_3766_F48F_419C_915EFC7641CA_mobile.label = ENTRADA
-Button_208FE6A8_3761_B58F_41C0_8472E4FD31F0_mobile.label = FACHADA
-Button_21CF77A9_3766_9381_41BF_DED3FF4951F5_mobile.label = IMAGEM AÉREA
-Button_1FDDCF4A_0C0A_23FD_417A_1C14E098FDFD_mobile.label = NOSSOS CONTATOS
+Button_89605D05_9B42_4001_41DB_F76A405F5FAE_mobile.label = NOSSOS CONTATOS
 Button_89605D05_9B42_4001_41DB_F76A405F5FAE.label = NOSSOS CONTATOS
-Button_204D0EC8_3767_758F_41C4_DA4C8F79BB4C_mobile.label = SALÃO FUNDO
-Button_04A9F63F_103B_E749_41A2_1B76EE972988_mobile.label = TOSHIRO POKE
 Button_208FE6A8_3761_B58F_41C0_8472E4FD31F0.label = UNIDADE - LAPA
+Button_208FE6A8_3761_B58F_41C0_8472E4FD31F0_mobile.label = UNIDADE - LAPA
+Button_8966CD32_9B42_4003_41DC_525861E6FD16_mobile.label = UNIDADE - PARAÍSO
 Button_8966CD32_9B42_4003_41DC_525861E6FD16.label = UNIDADE - PARAÍSO
 Button_386DE8AA_17CC_0B05_41B5_DE879E1001C4.label = lorem ipsum
 Button_386DE8AA_17CC_0B05_41B5_DE879E1001C4_mobile.label = lorem ipsum
