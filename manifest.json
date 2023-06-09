@@ -1,9 +1,9 @@
 {
  "start_url": "index.htm",
- "background_color": "#000000",
- "name": "GoGlow Bronze - Lapa - Paraíso",
- "display": "fullscreen",
  "theme_color": "#000000",
+ "name": "GoGlow Bronze - Lapa - Paraíso",
+ "background_color": "#000000",
+ "display": "fullscreen",
  "description": "Conheça nossas unidades através deste Tour Virtual 360° - GoGlow Bronze - Lapa - Paraíso",
  "icons": [
   {
